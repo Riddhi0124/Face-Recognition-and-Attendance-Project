@@ -3,7 +3,9 @@
 A real-time face recognition attendance system built using Python, OpenCV, and the `face_recognition` library. The system detects faces through a webcam, matches them against stored student images, and automatically records attendance in a CSV file.
 
 ---
+## Live Demo
 
+🌐 Website: https://riddhi0124.github.io/Face-Recognition-and-Attendance-Project/
 ## Features
 
 * Real-time webcam face detection
